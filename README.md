@@ -26,13 +26,13 @@ Every `.py` file starts with on of the following prefix:
 ### [0_examples](https://github.com/silvio-sjsj/computational_physics/tree/main/0_examples)
 This folder contains the examples as they are given in the book by the author. They do not represent any original code from me except for the possibility of some minor changes.
 
-### [ch2_python_programming_for_physicists]() 
+### [ch2_python_programming_for_physicists](https://github.com/silvio-sjsj/computational_physics/tree/main/ch2_python_programming_for_physicists) 
 
-### [Chapter 3: Graphics and visualization]()
+### [Chapter 3: Graphics and visualization]
 
-### [Chapter 4: Accuracy and speed]()
+### [Chapter 4: Accuracy and speed]
 
-### [Chapter 5: Integrals and derivatives]()
+### [Chapter 5: Integrals and derivatives]
 
 ### Chapter 6: Solutions to linear and nonlinear equations
 
