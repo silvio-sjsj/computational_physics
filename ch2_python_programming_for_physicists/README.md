@@ -10,3 +10,6 @@
 
 - `exrc_2-2_h_satellite`: Exercise 2.2: Altitude of a satellite. Computes the altitude of a satelite given an oribt period T.
 
+- `exrc_2-3_coord_convert.py`: Exercise 2.3 from the book. This is exactly the same code given in `exmp_2-2` (while I was working on example 2-2 I implemented the inverse transformation without knowing that this would be actually the next exercise).
+
+- `exrc_2-4_relat_t.py`: Exercise 2.4 from the book. Spaceship travelling to a planet. Computes the relativistic time and the proper time for a spaceship travelling with velocity that is some fraction from the speed of light to a planet that is x light years away from the Earth.
