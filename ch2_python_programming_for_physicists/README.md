@@ -15,3 +15,5 @@
 - `exrc_2-4_relat_t.py`: **solved** Exercise 2.4 from the book: Spaceship travelling to a planet. Computes the relativistic time and the proper time for a spaceship travelling with velocity that is some fraction from the speed of light to a planet that is x light years away from the Earth.
 
 - `exrc_2-5_quantum_pot_step.py`: **solved** Exercise 2.5 from the book: Quantum potential steps with improvements. Calculates reflection and transmition probabilities for a particle of mass m entering a potential step of height V with energy E > V. All parameters are given by the user either through command line or by running the program.
+
+- `exrc_2-6_planetary_orbits.py`: **solved** Exercise 2.6 from the book: "Planetary Orbits" with improvements. It calculates the aphelion distance and velocity at the aphelion, along with the body's orbital period in years and its orbital eccentricity, given its perihelion distance and velocity at the perihelion.
